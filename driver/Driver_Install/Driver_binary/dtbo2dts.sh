@@ -1,0 +1,1 @@
+dtc -I dtb -O dts -o ft_ft6336.dts ft-ft6336.dtbo 
